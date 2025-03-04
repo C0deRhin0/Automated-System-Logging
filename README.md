@@ -1,4 +1,4 @@
-#Automated System Logging
+# Automated System Logging
 A simple Bash script for Linux forensic and security log analysis. Counterpart of the PowerShell Forensic Suite
 
 ## DESCRIPTION
